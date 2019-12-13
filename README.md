@@ -1,4 +1,4 @@
-# Building My Own Regex
+# Building My Own Regex using JS
 
 This is a test spec driven guide to build a simple regex engine.
 
