@@ -9,7 +9,6 @@ function search(pattern, text) {
 function match(pattern, text) {
 }
 
-
 module.exports = {
   matchOne,
   match,
